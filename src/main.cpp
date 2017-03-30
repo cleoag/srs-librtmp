@@ -4,8 +4,10 @@
     gcc main.cpp srs_librtmp.cpp -g -O0 -lstdc++ -o output
 */
 #include <windows.h>
+
 #include <stdio.h>
 #include "..\src\srs\srs_librtmp.h"
+
 
 int main(int argc, char** argv)
 {

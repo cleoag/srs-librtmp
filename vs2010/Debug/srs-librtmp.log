@@ -1,0 +1,57 @@
+﻿  main.cpp
+  srs_librtmp.cpp
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(16966): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _mkdir. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\direct.h(108): note: see declaration of 'mkdir'
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(17569): warning C4309: '=': truncation of constant value
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(17570): warning C4309: '=': truncation of constant value
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(17571): warning C4309: '=': truncation of constant value
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(17992): warning C4244: 'argument': conversion from 'int64_t' to 'uint32_t', possible loss of data
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(17996): warning C4244: 'argument': conversion from 'int64_t' to 'uint32_t', possible loss of data
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(24249): warning C4244: '-=': conversion from 'uint64_t' to 'int', possible loss of data
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(24608): warning C4018: '<': signed/unsigned mismatch
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(24622): warning C4018: '<': signed/unsigned mismatch
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(24643): warning C4018: '<': signed/unsigned mismatch
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(24660): warning C4018: '<': signed/unsigned mismatch
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(25147): warning C4018: '<': signed/unsigned mismatch
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(27603): warning C4018: '<': signed/unsigned mismatch
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(27611): warning C4018: '<': signed/unsigned mismatch
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(27619): warning C4018: '<': signed/unsigned mismatch
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(28619): warning C4996: '_open': This function or variable may be unsafe. Consider using _sopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_io.h(388): note: see declaration of '_open'
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(28643): warning C4996: '_open': This function or variable may be unsafe. Consider using _sopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_io.h(388): note: see declaration of '_open'
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(28760): warning C4996: '_open': This function or variable may be unsafe. Consider using _sopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_io.h(388): note: see declaration of '_open'
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(30788): warning C4267: 'argument': conversion from 'size_t' to 'int16_t', possible loss of data
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(31130): warning C4244: '=': conversion from 'int64_t' to 'uint32_t', possible loss of data
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(38427): warning C4244: '-=': conversion from 'ssize_t' to 'int', possible loss of data
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(38644): warning C4267: 'argument': conversion from 'size_t' to 'int16_t', possible loss of data
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(38655): warning C4267: 'argument': conversion from 'size_t' to 'int16_t', possible loss of data
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(43990): warning C4244: 'argument': conversion from 'int64_t' to 'double', possible loss of data
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(46856): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(46870): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(46949): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(178): note: see declaration of 'strerror'
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(47937): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(178): note: see declaration of 'strerror'
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(48071): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(178): note: see declaration of 'strerror'
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(48078): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(178): note: see declaration of 'strerror'
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(48094): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(178): note: see declaration of 'strerror'
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(48101): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(178): note: see declaration of 'strerror'
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(49116): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(49164): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(178): note: see declaration of 'strerror'
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(49634): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  srs_librtmp.h
+  Generating Code...
+c:\work\srs-librtmp\src\srs\srs_librtmp.cpp(49207): warning C4717: 'srs_human_print_rtmp_packet': recursive on all control paths, function will cause runtime stack overflow
+Debug\srs_librtmp.obj : warning LNK4042: object specified more than once; extras ignored
+  srs-librtmp.vcxproj -> C:\WORK\srs-librtmp\vs2010\Debug\srs-librtmp.exe
+  srs-librtmp.vcxproj -> C:\WORK\srs-librtmp\vs2010\Debug\srs-librtmp.pdb (Full PDB)

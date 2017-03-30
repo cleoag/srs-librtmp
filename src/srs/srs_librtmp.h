@@ -42,6 +42,9 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 **************************************************************
 *************************************************************/
 // for srs-librtmp, @see https://github.com/ossrs/srs/issues/213
+
+
+
 #ifdef _WIN32
     // include windows first.
     #include <windows.h>
@@ -54,7 +57,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
     typedef int int32_t;
     typedef unsigned char u_int8_t;
     typedef u_int8_t uint8_t;
-    typedef char int8_t;
+    //typedef char int8_t;
     typedef unsigned short u_int16_t;
     typedef u_int16_t uint16_t;
     typedef short int16_t;
@@ -1235,7 +1238,7 @@ typedef void* srs_hijack_io_t;
     int socket_cleanup();
     
     // others.
-    #define snprintf _snprintf
+    //#define snprintf _snprintf
 #endif
 
 /*************************************************************
