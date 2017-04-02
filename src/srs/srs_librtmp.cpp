@@ -49113,7 +49113,7 @@ const char* srs_human_format_time()
     
     // to calendar time
     struct tm* tm;
-    if ((tm = localtime((const time_t*)&tv.tv_sec)) == NULL) {
+    if ((tm = localtime((const time_t *)&tv.tv_sec)) == NULL) {
         return buf;
     }
     
